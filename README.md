@@ -12,7 +12,8 @@ python3 solver.py
 
 ### Sample output
 
-![image](https://user-images.githubusercontent.com/7316460/150828647-a21556ef-8958-497d-96a2-500f06feec7b.png)
+![image](https://user-images.githubusercontent.com/7316460/151324571-18c370ba-8cfb-44aa-93b1-a75c1c608e24.png)
+
 
 Legend:
 - 🔵 Correct letter and position
