@@ -18,7 +18,7 @@ async def find_target_word(words):
 
     correct_word = {0: '*', 1: '*', 2: '*', 3: '*', 4: '*'}
 
-    for attempt_num in range(0,7):
+    for attempt_num in range(0,6):
         test_word = max(words, key=compute_word_score)
         print(f"Attempt #{attempt_num+1}: {test_word.upper()}", end="\r")
 
